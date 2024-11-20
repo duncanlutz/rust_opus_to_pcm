@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-darwin-x64`
+# `rust_opus-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@napi-rs/package-template`
+This is the **x86_64-apple-darwin** binary for `rust_opus`

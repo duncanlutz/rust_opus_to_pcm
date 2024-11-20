@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-linux-arm-gnueabihf`
+# `rust_opus-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `@napi-rs/package-template`
+This is the **armv7-unknown-linux-gnueabihf** binary for `rust_opus`

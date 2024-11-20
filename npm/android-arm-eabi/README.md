@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-android-arm-eabi`
+# `rust_opus-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `@napi-rs/package-template`
+This is the **armv7-linux-androideabi** binary for `rust_opus`

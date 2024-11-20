@@ -1,9 +1,9 @@
 {
-  "name": "@napi-rs/package-template",
+  "name": "rust_opus",
   "version": "1.0.0",
-  "description": "Template project for writing node package with napi-rs",
+  "description": "A Javascript package for decoding OPUS to PCM packets built with Rust",
   "main": "index.js",
-  "repository": "git@github.com:napi-rs/package-template.git",
+  "repository": "https://github.com/duncanlutz/rust_opus_to_pcm",
   "license": "MIT",
   "keywords": [
     "napi-rs",
@@ -18,7 +18,7 @@
     "index.js"
   ],
   "napi": {
-    "name": "package-template",
+    "name": "rust_opus_to_pcm",
     "triples": {
       "defaults": true,
       "additional": [

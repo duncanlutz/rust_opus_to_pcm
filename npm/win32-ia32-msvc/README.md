@@ -1,3 +1,3 @@
-# `@napi-rs/package-template-win32-ia32-msvc`
+# `rust_opus-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `@napi-rs/package-template`
+This is the **i686-pc-windows-msvc** binary for `rust_opus`
